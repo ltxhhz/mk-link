@@ -1,0 +1,1 @@
+pyinstaller index.py -F -w
